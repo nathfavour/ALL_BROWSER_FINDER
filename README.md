@@ -29,9 +29,9 @@ Here are the steps for using the ALL_BROWSERS_FINDER
 20. 
 21. If you have any error, it either has to do with the imported libraries, or the network connection;
 22. 
-23. In case you want to get results from ChatGPT, you first have to generate an openai-key, and save it in the key.py file, in between the double quotes of the keya string variable.
+23. In case you want to get results from ChatGPT, you first have to generate an openai-key, and save it in the key.py file, in between the double quotes of the 'chatgpt_key' string variable.
 24. 
-25. Finally, If you're going to use tor browser, you'd better know a bit of programmingl...naturally it will give errors so you have to ocnfigure tor system settings to allow connections from a port...read the error messages, and use ChatGPT heavily!
+25. Finally, If you're going to use tor browser, you'd better know a bit of programming!...naturally it will give errors so you have to ocnfigure tor system settings to allow connections from a port...read the error messages, and use ChatGPT heavily!
 
 THANKS!
 
