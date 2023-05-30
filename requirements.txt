@@ -1,0 +1,4 @@
+bs4
+openai_secret_manager
+stem
+openai
